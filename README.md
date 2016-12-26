@@ -1,2 +1,2 @@
-# IOTComminuty
+# IOTCommunity
 A test site
